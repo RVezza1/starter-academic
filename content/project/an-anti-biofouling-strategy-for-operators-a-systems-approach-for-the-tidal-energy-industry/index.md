@@ -1,5 +1,5 @@
 ---
-title: Thesis Abstract for a Doctor of Engineering - Offshore Renewable Energy
+title: Doctor of Engineering - Offshore Renewable Energy - Thesis Abstract
 subtitle: ""
 date: 2020-09-21T11:03:51.817Z
 summary: ""
