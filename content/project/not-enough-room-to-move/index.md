@@ -6,7 +6,8 @@ draft: false
 featured: false
 external_link: https://drive.google.com/file/d/1-yHRTAU9Th6s2Rjmj7wnLVdGbGQnXCGq/view?usp=sharing
 image:
-  filename: screenshot-2020-09-21-at-12.21.16.png
+  filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
+  caption: A Historic Environment Scotland Film
 ---
