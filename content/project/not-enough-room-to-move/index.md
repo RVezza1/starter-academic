@@ -1,6 +1,6 @@
 ---
-title: "Not Enough Room to Move "
-subtitle: A Historic Environment Scotland Short Film
+title: "A Historic Environment Scotland Short Film: Not Enough Room to Move "
+subtitle: ""
 date: 2020-09-21T10:16:08.481Z
 draft: false
 featured: false
@@ -10,7 +10,7 @@ links:
     name: Film
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
   caption: A Historic Environment Scotland Film
 ---
