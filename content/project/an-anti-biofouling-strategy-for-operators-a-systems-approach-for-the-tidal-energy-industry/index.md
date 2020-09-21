@@ -1,7 +1,6 @@
 ---
-title: "An anti-biofouling strategy for operators: A systems approach for the
-  tidal energy industry"
-subtitle: PhD thesis
+title: Thesis for Doctorate of Engineering - Offshore Renewable Energy
+subtitle: ""
 date: 2020-09-21T11:03:51.817Z
 summary: ""
 draft: false
