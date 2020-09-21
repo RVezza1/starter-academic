@@ -1,75 +1,39 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Rachel Vezzà
+role: Doctor of Renewable Energy Engineering
+avatar_filename: avatar.jpg
+bio: My research interests include anything that makes this world a better place.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - ""
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+organizations:
+  - name: University of Edinburgh
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Renewable Energy Engineering
+      institution: University of Edinburgh
+      year: 2020
+    - course: BSc Marine Science with Arctic Studies
+      institution: University of Highlands and Islands
+      year: 2015
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
+authors:
+  - admin
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
+Rachel Vezza is a selfemployed consultant with a PhD of renewable energy engineering from the University of Edinburgh. She has an intrinsic curiosity and an exceptional urge to learn, to analyse and to understand. Her research interests are wide ranging - she loves to be challenged and to be given the opportunity to work in different fields.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rachel is very quick to connect information from every possible source, be it numerical data, company reports, peer-reviewed journals, blogs, expert discussions and normal conversation. She is a great asset in brainstorming and strategic considerations.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With a skill in pattern recognition and a very sensitive perception, Rachel has a strong intuition. Having said that, she is a trained scientist and therefore places a high importance on objective analysis. The combination of the two, however, gives her insight into people and companies and allows her to thrive in the analysis of capabilities and in the sorting of possible options.
+
+In her work as an engineer, she has learned to be very precise. Although her personal style prefers quick over perfectionistic, she is meticulous where it matters. This includes very thorough methods of organisation, planning and timekeeping.
+
+What she can do for you:\
+Being so versatile and keen to learn, she can be thrown at any project and any task. Quickly and without need for supervision will she analyse, sort, interpret, and suggest ways to go forward. She critiques diplomatically and honestly shares her opinions and worries. Her energy and unstoppable enthusiasm encourage cooperative working and she has a reputation to be very motivational.
