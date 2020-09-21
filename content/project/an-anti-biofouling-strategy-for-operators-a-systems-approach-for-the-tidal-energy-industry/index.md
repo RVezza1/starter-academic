@@ -1,5 +1,5 @@
 ---
-title: Thesis for Doctorate of Engineering - Offshore Renewable Energy
+title: Thesis Abstract for a Doctor of Engineering - Offshore Renewable Energy
 subtitle: ""
 date: 2020-09-21T11:03:51.817Z
 summary: ""
@@ -11,7 +11,7 @@ links:
     name: Abstract
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: CENTER
   preview_only: false
   caption: "An anti-biofouling strategy for operators: A systems approach for the
     tidal energy industry"
