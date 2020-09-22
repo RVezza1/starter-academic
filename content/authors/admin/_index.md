@@ -6,14 +6,13 @@ bio: "My research interest is the future of the ocean, our impact on it and its
   impact on us. "
 interests:
   - Scuba diving
-  - traveling
-  - languages
+  - Traveling
+  - Languages
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-organizations:
-  - name: University of Edinburgh
+organizations: []
 education:
   courses:
     - course: PhD in Renewable Energy Engineering
